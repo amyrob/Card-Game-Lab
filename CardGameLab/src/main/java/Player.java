@@ -21,4 +21,5 @@ public class Player {
     public int cardValue() {
         return this.hand.get(0).getValue();
     }
+
 }
